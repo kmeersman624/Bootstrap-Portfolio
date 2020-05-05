@@ -1,4 +1,14 @@
-.thumbnail{
-    height: 350px;
-    width: 350px;
+.thumbnail {
+  height: 350px;
+  width: 350px;
+}
+.NoahKate {
+  height: 250px;
+  width: 250px;
+}
+.fixed-bottom {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  background-color: darkgray;
 }
