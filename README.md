@@ -3,7 +3,7 @@
 
 ## Description
 
-Tis is my first portfolio created using a mixture of the following
+This is my first portfolio created using a mixture of the following
 
 - HTML
 - CSS
@@ -17,7 +17,7 @@ Tis is my first portfolio created using a mixture of the following
 
 ## Usage
 
-click on links on nav bar to navigate through site
+Click on links on nav bar to navigate through site
 
 ## License
 
