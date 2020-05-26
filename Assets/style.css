@@ -1,5 +1,5 @@
 .thumbnail {
-  height: 350px;
+  height: 250px;
   width: 350px;
 }
 .NoahKate {
@@ -14,4 +14,8 @@
 }
 body {
   background-color: lightblue;
+}
+.row {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
